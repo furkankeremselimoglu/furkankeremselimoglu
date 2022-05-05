@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kerem</h1>
 <h3 align="center">A passionate computer science student from Turkey</h3>
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **Software Engineering**
 
-- 🌱 I’m currently learning **Angular.js, React, js, Node.js**
+- 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java, C++**
 
-- 📫 How to reach me **fkselimoglu.cs@gmail.com**
+- 📫 How to reach me **kerem.selimoglu@ozu.edu.tr**
 
 - ⚡ Fun fact **I am interested in computer games, table tennis and football.**
 
