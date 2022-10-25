@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Kerem</h1>
 <h3 align="center">A passionate computer science student from Turkey</h3>
 
-- 🔭 I’m currently working on **Software Engineering**
+- 🔭 I’m currently working on **Data Science**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Java, C++**
+- 💬 Ask me about **Java, C++, Python**
 
 - 📫 How to reach me **kerem.selimoglu@ozu.edu.tr**
 
-- ⚡ Fun fact **I am interested in computer games, table tennis and football.**
+- ⚡ Fun fact **I am interested in computer games, table tennis, tennis and football.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
