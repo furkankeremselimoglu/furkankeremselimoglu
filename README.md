@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kerem</h1>
-<h3 align="center">A passionate computer science student from Turkey</h3>
+<h3 align="center">Passionate Software Engineer</h3>
 
 - 🔭 I’m currently working on **Data Science**
 
