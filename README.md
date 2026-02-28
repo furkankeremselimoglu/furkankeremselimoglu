@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Java, C++, Python**
 
-- 📫 How to reach me **kerem.selimoglu@ozu.edu.tr**
+- 📫 How to reach me **furkankeremselimoglu@gmail.com**
 
 - ⚡ Fun fact **I am interested in computer games, tv series, table tennis, tennis and football.**
 
