@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Backend Development, Java Spring Framework**
 
-- 🌱 I’m currently learning **Mobile Application Development**
+- 🌱 I’m currently learning **JavaScript, TypeScript**
 
-- 💬 Ask me about **Java, C++, Python**
+- 💬 Ask me about **Java, JavaScript, Python**
 
 - 📫 How to reach me **furkankeremselimoglu@gmail.com**
 
