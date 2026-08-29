@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **furkankeremselimoglu@gmail.com**
 
-- ⚡ Fun fact **I am interested in computer games, tv series and tennis.**
+- ⚡ Fun fact **I am interested in racket sports, movies and tv series.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
