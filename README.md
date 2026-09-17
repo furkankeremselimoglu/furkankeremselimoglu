@@ -13,7 +13,7 @@
 
 <table>
   <tr>
-    <td valign="top" width="30%">
+    <td valign="top" width="25%">
       <h3 align="left">Connect with me:</h3>
       <p align="left">
       <a href="https://linkedin.com/in/furkankeremselimoglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="furkankeremselimoglu" height="30" width="40" /></a>
@@ -21,7 +21,7 @@
       <a href="https://leetcode.com/u/fkselimoglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fkselimoglu" height="30" width="40" /></a>
       </p>
     </td>
-    <td valign="top" align="center" width="70%">
+    <td valign="top" align="center" width="75%">
       <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=furkankeremselimoglu&" alt="furkankeremselimoglu" /></p>
     </td>
   </tr>
