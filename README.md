@@ -7,9 +7,11 @@
   <a href="https://www.hackerrank.com/fkselimoglu"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
   <br /><br />
   <a href="#"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=css%2Chtml%2Cjs%2Cts%2Creact%2Cnodejs%2Cjava%2Cspring%2Cpython%2Cfirebase%2Cjenkins&theme=dark&perline=11" />
-    <img src="https://skillicons.dev/icons?i=css,html,js,ts,react,nodejs,java,spring,python,firebase,jenkins&theme=light&perline=11" alt="CSS, HTML, JavaScript, TypeScript, React, Node.js, Java, Spring, Python, Firebase, Jenkins" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Cts%2Cnodejs%2Creact%2Cjava%2Cspring%2Cpython%2Cfirebase%2Csupabase%2Ccloudflare%2Cjenkins&theme=dark&perline=13" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,java,spring,python,firebase,supabase,cloudflare,jenkins&theme=light&perline=13" alt="HTML, CSS, JavaScript, TypeScript, Node.js, React, Java, Spring, Python, Firebase, Supabase, Cloudflare, Jenkins" />
   </picture></a>
+  <br />
+  <sub>HTML · CSS · JavaScript · TypeScript &nbsp;|&nbsp; Node.js · React &nbsp;|&nbsp; Java · Spring &nbsp;|&nbsp; Python · PL/SQL &nbsp;|&nbsp; Firebase · Supabase · Cloudflare &nbsp;|&nbsp; Jenkins</sub>
   <br />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=furkankeremselimoglu&card_height=170&theme=dark&hide_border=true&background=00000000&ring=E2381B&fire=FF5A1F&currStreakLabel=E2381B" />
