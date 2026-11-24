@@ -8,7 +8,7 @@
   <br /><br />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/furkankeremselimoglu/furkankeremselimoglu/main/skills-dark.svg" />
-    <img src="https://raw.githubusercontent.com/furkankeremselimoglu/furkankeremselimoglu/main/skills-light.svg" alt="HTML, CSS, JavaScript, TypeScript, Node.js, React, Java, Spring, Python, PL/SQL, Firebase, Supabase, Cloudflare, Jenkins" width="640" />
+    <img src="https://raw.githubusercontent.com/furkankeremselimoglu/furkankeremselimoglu/main/skills-light.svg" alt="HTML, CSS, Tailwind, JavaScript, TypeScript, Node.js, React, Next.js, Java, Spring, Python, PL/SQL, PostgreSQL, Firebase, Supabase, Cloudflare, Docker, Jenkins" width="700" />
   </picture>
   <br />
   <picture>
