@@ -1,10 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:450a0a,50:991b1b,100:dc2626&height=200&section=header&text=Furkan%20Kerem%20Selimo%C4%9Flu&fontSize=40&fontColor=ffffff&fontAlignY=32&desc=Passionate%20Software%20Engineer&descAlignY=52&descSize=18&animation=fadeIn" alt="Furkan Kerem Selimoğlu" width="100%" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/furkankeremselimoglu">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=DC2626&center=true&vCenter=true&width=620&lines=Hi+%F0%9F%91%8B%2C+I%27m+Kerem;Working+on+Backend+Development;Learning+Web+and+Mobile+App%26+Development;Fun+fact%3A+racket+sports%2C+movies+%26+TV+series" alt="Typing intro" />
+  <a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:450a0a,50:991b1b,100:dc2626&height=200&section=header&text=Furkan%20Kerem%20Selimo%C4%9Flu&fontSize=40&fontColor=ffffff&fontAlignY=32&desc=Passionate%20Software%20Engineer&descAlignY=52&descSize=18&animation=fadeIn" alt="Furkan Kerem Selimoğlu" width="100%" /></a>
+  <br />
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=DC2626&center=true&vCenter=true&width=620&height=36&lines=Hi+%F0%9F%91%8B%2C+I%27m+Kerem;Working+on+Backend+Development;Learning+Web+and+Mobile+App%26+Development;Fun+fact%3A+racket+sports%2C+movies+%26+TV+series" alt="Typing intro" />
   </a>
 </p>
 
