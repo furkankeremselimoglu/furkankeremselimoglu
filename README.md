@@ -1,8 +1,6 @@
 <p align="center">
-  <a href="#"><img src="banner.svg?v=5" alt="Furkan Kerem Selimoğlu — Passionate Software Engineer" width="100%" /></a>
-</p>
-
-<p align="center">
+  <a href="#"><img src="banner.svg?v=6" alt="Furkan Kerem Selimoğlu — Passionate Software Engineer" width="100%" /></a>
+  <br />
   <a href="https://linkedin.com/in/furkankeremselimoglu"><img src="https://img.shields.io/badge/LinkedIn-7F1D1D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:furkankeremselimoglu@gmail.com"><img src="https://img.shields.io/badge/Gmail-991B1B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://leetcode.com/u/fkselimoglu"><img src="https://img.shields.io/badge/LeetCode-B91C1C?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
