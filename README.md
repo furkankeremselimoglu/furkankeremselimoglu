@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#"><img src="banner.svg?v=3" alt="Furkan Kerem Selimoğlu — Passionate Software Engineer" width="100%" /></a>
+  <a href="#"><img src="banner.svg?v=4" alt="Furkan Kerem Selimoğlu — Passionate Software Engineer" width="100%" /></a>
 </p>
 
 <p align="center">
