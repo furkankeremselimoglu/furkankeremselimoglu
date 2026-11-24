@@ -10,12 +10,10 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=css,html,js,ts,react,nodejs,java,spring,python,firebase,jenkins&theme=dark&perline=11" />
     <img src="https://skillicons.dev/icons?i=css,html,js,ts,react,nodejs,java,spring,python,firebase,jenkins&theme=light&perline=11" alt="CSS, HTML, JavaScript, TypeScript, React, Node.js, Java, Spring, Python, Firebase, Jenkins" />
   </picture></a>
-</p>
-
-<p align="center">
+  <br />
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=furkankeremselimoglu&theme=dark&hide_border=true&background=00000000&ring=DC2626&fire=DC2626&currStreakLabel=DC2626" />
-    <img src="https://streak-stats.demolab.com/?user=furkankeremselimoglu&hide_border=true&background=00000000&ring=DC2626&fire=DC2626&currStreakLabel=DC2626" alt="GitHub streak stats" width="460" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=furkankeremselimoglu&card_height=170&theme=dark&hide_border=true&background=00000000&ring=DC2626&fire=DC2626&currStreakLabel=DC2626" />
+    <img src="https://streak-stats.demolab.com/?user=furkankeremselimoglu&card_height=170&hide_border=true&background=00000000&ring=DC2626&fire=DC2626&currStreakLabel=DC2626" alt="GitHub streak stats" width="460" />
   </picture>
   <br />
   <picture>
