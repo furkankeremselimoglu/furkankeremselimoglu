@@ -3,13 +3,13 @@
   <style>
     .name { font: 700 54px 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; fill: #fff; }
     .sub  { font: 500 22px 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; fill: #fff; opacity: .85; }
-    .line { font: 600 24px ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; fill: #fee2e2; }
+    .line { font: 600 24px ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; fill: #ffd8cc; }
     text { text-anchor: middle; }
   </style>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#450a0a"/><stop offset=".5" stop-color="#991b1b"/><stop offset="1" stop-color="#dc2626"/>
-    </linearGradient>
+    <radialGradient id="bg" cx=".5" cy=".42" r=".62">
+      <stop offset="0" stop-color="#a3140b"/><stop offset=".55" stop-color="#780b07"/><stop offset="1" stop-color="#4a0604"/>
+    </radialGradient>
   </defs>
   <path fill="url(#bg)" d="M0 0H1000V205C820 250 680 175 500 205S180 250 0 210Z"/>
   <text x="500" y="88" class="name">Furkan Kerem Selimoğlu</text>
