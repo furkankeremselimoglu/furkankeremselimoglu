@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 110" width="1000" height="110" role="img" aria-label="">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#450a0a"/><stop offset=".5" stop-color="#991b1b"/><stop offset="1" stop-color="#dc2626"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#bg)" d="M0 45C180 0 320 70 500 40S820 5 1000 50V110H0Z"/>
+</svg>
