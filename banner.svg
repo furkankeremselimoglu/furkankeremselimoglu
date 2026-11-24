@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="1000" height="300" role="img" aria-label="Furkan Kerem Selimoğlu">
-  <!-- To change the rotating lines, edit the <text class="line"> elements below (keep the order). -->
+  <!-- To change the rotating lines, edit the text inside each <text class="line"> below (keep the order). -->
   <style>
     .name { font: 700 54px 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; fill: #fff; }
     .sub  { font: 500 22px 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; fill: #fff; opacity: .85; }
@@ -14,20 +14,20 @@
   <path fill="url(#bg)" d="M0 0H1000V250C820 300 680 220 500 250S180 300 0 255Z"/>
   <text x="500" y="105" class="name">Furkan Kerem Selimoğlu</text>
   <text x="500" y="145" class="sub">Passionate Software Engineer</text>
-  <clipPath id="c0"><rect x="0" y="180" height="50" width="0">
-    <animate attributeName="width" dur="12.8s" repeatCount="indefinite" calcMode="linear"
-      keyTimes="0.0000;0.0781;0.2227;0.2500;1.0000" values="0;1000;1000;0;0"/></rect></clipPath>
-  <text clip-path="url(#c0)" x="500" y="214" class="line">Hi 👋, I'm Kerem</text>
-  <clipPath id="c1"><rect x="0" y="180" height="50" width="0">
-    <animate attributeName="width" dur="12.8s" repeatCount="indefinite" calcMode="linear"
-      keyTimes="0.0000;0.2500;0.3281;0.4727;0.5000;1.0000" values="0;0;1000;1000;0;0"/></rect></clipPath>
-  <text clip-path="url(#c1)" x="500" y="214" class="line">Working on Backend Development</text>
-  <clipPath id="c2"><rect x="0" y="180" height="50" width="0">
-    <animate attributeName="width" dur="12.8s" repeatCount="indefinite" calcMode="linear"
-      keyTimes="0.0000;0.5000;0.5781;0.7227;0.7500;1.0000" values="0;0;1000;1000;0;0"/></rect></clipPath>
-  <text clip-path="url(#c2)" x="500" y="214" class="line">Learning Web and Mobile App&amp; Development</text>
-  <clipPath id="c3"><rect x="0" y="180" height="50" width="0">
-    <animate attributeName="width" dur="12.8s" repeatCount="indefinite" calcMode="linear"
-      keyTimes="0.0000;0.7500;0.8281;0.9727;1.0000" values="0;0;1000;1000;0"/></rect></clipPath>
-  <text clip-path="url(#c3)" x="500" y="214" class="line">Fun fact: racket sports, movies &amp; TV series</text>
+  <text x="500" y="214" class="line" opacity="0">Hi 👋, I'm Kerem
+    <animate attributeName="opacity" dur="12.8s" repeatCount="indefinite" keyTimes="0.0000;0.0352;0.2227;0.2500;1.0000" values="0;1;1;0;0"/>
+    <animateTransform attributeName="transform" type="translate" dur="12.8s" repeatCount="indefinite" keyTimes="0.0000;0.0352;0.2227;0.2500;1.0000" values="0 8;0 0;0 0;0 -8;0 -8"/>
+  </text>
+  <text x="500" y="214" class="line" opacity="0">Working on Backend Development
+    <animate attributeName="opacity" dur="12.8s" repeatCount="indefinite" keyTimes="0.0000;0.2500;0.2852;0.4727;0.5000;1.0000" values="0;0;1;1;0;0"/>
+    <animateTransform attributeName="transform" type="translate" dur="12.8s" repeatCount="indefinite" keyTimes="0.0000;0.2500;0.2852;0.4727;0.5000;1.0000" values="0 8;0 8;0 0;0 0;0 -8;0 -8"/>
+  </text>
+  <text x="500" y="214" class="line" opacity="0">Learning Web&amp;Mobile App Development
+    <animate attributeName="opacity" dur="12.8s" repeatCount="indefinite" keyTimes="0.0000;0.5000;0.5352;0.7227;0.7500;1.0000" values="0;0;1;1;0;0"/>
+    <animateTransform attributeName="transform" type="translate" dur="12.8s" repeatCount="indefinite" keyTimes="0.0000;0.5000;0.5352;0.7227;0.7500;1.0000" values="0 8;0 8;0 0;0 0;0 -8;0 -8"/>
+  </text>
+  <text x="500" y="214" class="line" opacity="0">Fun fact: racket sports, movies &amp; TV series
+    <animate attributeName="opacity" dur="12.8s" repeatCount="indefinite" keyTimes="0.0000;0.7500;0.7852;0.9727;1.0000" values="0;0;1;1;0"/>
+    <animateTransform attributeName="transform" type="translate" dur="12.8s" repeatCount="indefinite" keyTimes="0.0000;0.7500;0.7852;0.9727;1.0000" values="0 8;0 8;0 0;0 0;0 -8"/>
+  </text>
 </svg>
