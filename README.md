@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/furkankeremselimoglu">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=DC2626&center=true&vCenter=true&width=520&lines=Hi+%F0%9F%91%8B%2C+I'm+Kerem;Backend+Developer+%E2%80%94+Java+%26+Spring;Learning+JavaScript+%26+TypeScript;Racket+sports%2C+movies+%26+TV+series" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=DC2626&center=true&vCenter=true&width=620&lines=Hi+%F0%9F%91%8B%2C+I%27m+Kerem;Working+on+Backend+Development;Learning+JavaScript+%26+TypeScript;Ask+me+about+Java%2C+JavaScript%2C+Python;Fun+fact%3A+racket+sports%2C+movies+%26+TV+series" alt="Typing intro" />
   </a>
 </p>
 
@@ -14,17 +14,6 @@
   <a href="https://leetcode.com/u/fkselimoglu"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   <a href="https://www.hackerrank.com/fkselimoglu"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
 </p>
-
-```ts
-const kerem = {
-  role:        "Backend Developer",
-  workingOn:   "Backend Development",
-  learning:    ["JavaScript", "TypeScript"],
-  askMeAbout:  ["Java", "JavaScript", "Python"],
-  reachMe:     "furkankeremselimoglu@gmail.com",
-  funFact:     "I'm into racket sports, movies and TV series",
-};
-```
 
 <p align="center">
   <picture>
