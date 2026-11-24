@@ -17,14 +17,12 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=furkankeremselimoglu&theme=dark&hide_border=true&background=00000000&ring=DC2626&fire=DC2626&currStreakLabel=DC2626" />
     <img src="https://streak-stats.demolab.com/?user=furkankeremselimoglu&hide_border=true&background=00000000&ring=DC2626&fire=DC2626&currStreakLabel=DC2626" alt="GitHub streak stats" width="460" />
   </picture>
-</p>
-
-<picture>
+  <br />
+  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/furkankeremselimoglu/furkankeremselimoglu/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/furkankeremselimoglu/furkankeremselimoglu/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/furkankeremselimoglu/furkankeremselimoglu/output/github-contribution-grid-snake.svg">
-</picture>
-
-<p align="center">
+  </picture>
+  <br />
   <a href="#"><img src="footer.svg?v=2" alt="" width="100%" /></a>
 </p>
