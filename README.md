@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/furkankeremselimoglu">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=DC2626&center=true&vCenter=true&width=620&lines=Hi+%F0%9F%91%8B%2C+I%27m+Kerem;Working+on+Backend+Development;Learning+JavaScript+%26+TypeScript;Ask+me+about+Java%2C+JavaScript%2C+Python;Fun+fact%3A+racket+sports%2C+movies+%26+TV+series" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=DC2626&center=true&vCenter=true&width=620&lines=Hi+%F0%9F%91%8B%2C+I%27m+Kerem;Working+on+Backend+Development;Learning+Web+and+Mobile+App%26+Development;Fun+fact%3A+racket+sports%2C+movies+%26+TV+series" alt="Typing intro" />
   </a>
 </p>
 
