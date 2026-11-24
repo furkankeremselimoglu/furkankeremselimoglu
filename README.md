@@ -7,7 +7,7 @@
   <a href="https://www.hackerrank.com/fkselimoglu"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
   <br /><br />
   <a href="#"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=css,html,js,ts,react,nodejs,java,spring,python,firebase,jenkins&theme=dark&perline=11" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=css%2Chtml%2Cjs%2Cts%2Creact%2Cnodejs%2Cjava%2Cspring%2Cpython%2Cfirebase%2Cjenkins&theme=dark&perline=11" />
     <img src="https://skillicons.dev/icons?i=css,html,js,ts,react,nodejs,java,spring,python,firebase,jenkins&theme=light&perline=11" alt="CSS, HTML, JavaScript, TypeScript, React, Node.js, Java, Spring, Python, Firebase, Jenkins" />
   </picture></a>
   <br />
