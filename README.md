@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#"><img src="banner.svg?v=7" alt="Furkan Kerem Selimoğlu — Passionate Software Engineer" width="100%" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/furkankeremselimoglu/furkankeremselimoglu/main/banner.svg?v=7" alt="Furkan Kerem Selimoğlu — Passionate Software Engineer" width="100%" /></a>
   <br />
   <a href="https://linkedin.com/in/furkankeremselimoglu"><img src="https://img.shields.io/badge/LinkedIn-650906?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:furkankeremselimoglu@gmail.com"><img src="https://img.shields.io/badge/Gmail-8A110A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -22,5 +22,5 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/furkankeremselimoglu/furkankeremselimoglu/output/github-contribution-grid-snake.svg?v=2">
   </picture>
   <br />
-  <a href="#"><img src="footer.svg?v=3" alt="" width="100%" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/furkankeremselimoglu/furkankeremselimoglu/main/footer.svg?v=3" alt="" width="100%" /></a>
 </p>
